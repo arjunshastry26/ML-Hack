@@ -1,0 +1,5 @@
+data/
+artifacts/
+outputs/
+notebooks/*_executed.ipynb
+__pycache__/
